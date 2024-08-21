@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Kevin Ortega"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+  I attended Pete Knight High School. I did graduate thankfully. I was more of a fan of english but I graded fairly well in both. I enjoyed the reading and discussion more in english then the math problems we had to do.
 
      
 
@@ -26,7 +26,7 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+  I have a windows computer at home and a windows laptop that I use for school. I would rate myself about a 6/10 in being able to use a computer. I do have internet access at home and it is relaible enough for me to do all my school work.
    
 
 ## Others and You?   
